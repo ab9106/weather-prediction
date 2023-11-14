@@ -3,7 +3,7 @@
 Welcome to the Weather Prediction Website! This website provides you with up-to-date weather information in a visually appealing and user-friendly interface.
 ## Screenshots
 
-![Weather Prediction Website](./path/to/your/screenshot.png)
+![Weather Prediction Website](https://github.com/ab9106/weather-prediction/blob/main/Screenshot%20(122).png)
 
 
 
